@@ -1,1 +1,1 @@
-def funcion5(): print('Función 5')
+def funcion5(): print('Función 5 modificada')
